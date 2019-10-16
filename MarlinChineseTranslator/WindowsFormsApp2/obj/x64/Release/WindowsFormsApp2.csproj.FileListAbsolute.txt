@@ -1,0 +1,10 @@
+C:\Users\igame\Documents\3d-printer-firmware\Marlin\MarlinChineseTranslator\WindowsFormsApp2\bin\x64\Release\Marlin Chinese Language Code Translator.exe.config
+C:\Users\igame\Documents\3d-printer-firmware\Marlin\MarlinChineseTranslator\WindowsFormsApp2\bin\x64\Release\Marlin Chinese Language Code Translator.exe
+C:\Users\igame\Documents\3d-printer-firmware\Marlin\MarlinChineseTranslator\WindowsFormsApp2\bin\x64\Release\Marlin Chinese Language Code Translator.pdb
+C:\Users\igame\Documents\3d-printer-firmware\Marlin\MarlinChineseTranslator\WindowsFormsApp2\obj\x64\Release\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\igame\Documents\3d-printer-firmware\Marlin\MarlinChineseTranslator\WindowsFormsApp2\obj\x64\Release\WindowsFormsApp2.Form1.resources
+C:\Users\igame\Documents\3d-printer-firmware\Marlin\MarlinChineseTranslator\WindowsFormsApp2\obj\x64\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\igame\Documents\3d-printer-firmware\Marlin\MarlinChineseTranslator\WindowsFormsApp2\obj\x64\Release\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\igame\Documents\3d-printer-firmware\Marlin\MarlinChineseTranslator\WindowsFormsApp2\obj\x64\Release\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\igame\Documents\3d-printer-firmware\Marlin\MarlinChineseTranslator\WindowsFormsApp2\obj\x64\Release\Marlin Chinese Language Code Translator.exe
+C:\Users\igame\Documents\3d-printer-firmware\Marlin\MarlinChineseTranslator\WindowsFormsApp2\obj\x64\Release\Marlin Chinese Language Code Translator.pdb
